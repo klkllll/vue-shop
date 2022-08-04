@@ -1,0 +1,30 @@
+{
+  "id": "3527057",
+  "name": "尚品汇",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29957918",
+      "name": "管理认证",
+      "font_class": "guanfangrenzheng",
+      "unicode": "100d7",
+      "unicode_decimal": 65751
+    },
+    {
+      "icon_id": "1225393",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "4767023",
+      "name": "arrowdown",
+      "font_class": "arrowdown",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    }
+  ]
+}
